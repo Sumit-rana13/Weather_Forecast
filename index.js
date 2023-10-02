@@ -44,30 +44,3 @@ inputButton.addEventListener("click" , function(){
 
 getWeather("delhi")
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-// async function getWeather(){
-//    try {
-//       const response = await fetch(url,options);
-//       const data = await response.json()
-//       console.log(data);
-//    } catch (e) {
-//       console.log(e);
-//    }
-   
-// }
-// getWeather()
-
